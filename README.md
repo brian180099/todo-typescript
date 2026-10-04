@@ -9,6 +9,5 @@ TypeScript 타입 정의하기, README 스크린샷 추가하기 두 할 일을 
 
 ## 빌드 성공 화면
 
-`npm run build` 명령으로 TypeScript 타입 검사와 Vite 프로덕션 빌드가 모두 성공한 결과입니다.
+<img width="539" height="238" alt="image" src="https://github.com/user-attachments/assets/f6af2b06-4937-4bfa-9840-9dcb3cf26b8a" />
 
-![npm run build 성공 화면](./screenshots/build-success.png)
