@@ -28,8 +28,12 @@ npm run lint
 
 ## 실행 화면
 
-> 여기에 할 일을 2개 이상 추가하고, 필터 및 선택 상태가 보이는 실행 화면을 추가합니다.
+TypeScript 타입 정의하기, README 스크린샷 추가하기 두 할 일을 추가한 뒤, 두 항목을 완료 처리하고 `완료` 필터와 선택 상태를 확인한 화면입니다.
+
+![To-Do 앱 동작 화면](./screenshots/todo-running.png)
 
 ## 빌드 성공 화면
 
-> 여기에 `npm run build` 성공 화면을 추가합니다.
+`npm run build` 명령으로 TypeScript 타입 검사와 Vite 프로덕션 빌드가 모두 성공한 결과입니다.
+
+![npm run build 성공 화면](./screenshots/build-success.png)
